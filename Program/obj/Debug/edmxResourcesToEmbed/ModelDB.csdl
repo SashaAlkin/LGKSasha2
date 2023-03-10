@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="apllication_of_citizens1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fio" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="age" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="date_of_birth" Type="DateTime" Precision="0" />
+    <Property Name="address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Applications" Relationship="Self.FK__Applicati__clien__2B3F6F97" FromRole="Client" ToRole="Applications" />
+  </EntityType>
+  <EntityType Name="Specialist">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fio" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="number_office" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="work_experience" Type="Int32" />
+    <Property Name="age" Type="Int32" />
+    <Property Name="phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Applications" Relationship="Self.FK__Applicati__speci__2C3393D0" FromRole="Specialist" ToRole="Applications" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="The_purpose_of_the_appeal">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="the_purpose_of_the_appeal1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Applications" Relationship="Self.FK__Applicati__id_th__2D27B809" FromRole="The_purpose_of_the_appeal" ToRole="Applications" />
+  </EntityType>
+  <EntityType Name="Using">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Application">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="client" Type="Int32" />
+    <Property Name="specialist" Type="Int32" />
+    <Property Name="id_the_purpose_of_the_appeal" Type="Int32" />
+    <Property Name="date" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Client1" Relationship="Self.FK__Applicati__clien__2B3F6F97" FromRole="Applications" ToRole="Client" />
+    <NavigationProperty Name="Specialist1" Relationship="Self.FK__Applicati__speci__2C3393D0" FromRole="Applications" ToRole="Specialist" />
+    <NavigationProperty Name="The_purpose_of_the_appeal" Relationship="Self.FK__Applicati__id_th__2D27B809" FromRole="Applications" ToRole="The_purpose_of_the_appeal" />
+  </EntityType>
+  <Association Name="FK__Applicati__clien__2B3F6F97">
+    <End Role="Client" Type="Self.Client" Multiplicity="0..1" />
+    <End Role="Applications" Type="Self.Application" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Applications">
+        <PropertyRef Name="client" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Applicati__speci__2C3393D0">
+    <End Role="Specialist" Type="Self.Specialist" Multiplicity="0..1" />
+    <End Role="Applications" Type="Self.Application" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Specialist">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Applications">
+        <PropertyRef Name="specialist" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Applicati__id_th__2D27B809">
+    <End Role="The_purpose_of_the_appeal" Type="Self.The_purpose_of_the_appeal" Multiplicity="0..1" />
+    <End Role="Applications" Type="Self.Application" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="The_purpose_of_the_appeal">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Applications">
+        <PropertyRef Name="id_the_purpose_of_the_appeal" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clients" EntityType="Self.Client" />
+    <EntitySet Name="Specialists" EntityType="Self.Specialist" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="The_purpose_of_the_appeal" EntityType="Self.The_purpose_of_the_appeal" />
+    <EntitySet Name="Usings" EntityType="Self.Using" />
+    <EntitySet Name="Applications" EntityType="Self.Application" />
+    <AssociationSet Name="FK__Applicati__clien__2B3F6F97" Association="Self.FK__Applicati__clien__2B3F6F97">
+      <End Role="Client" EntitySet="Clients" />
+      <End Role="Applications" EntitySet="Applications" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Applicati__speci__2C3393D0" Association="Self.FK__Applicati__speci__2C3393D0">
+      <End Role="Specialist" EntitySet="Specialists" />
+      <End Role="Applications" EntitySet="Applications" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Applicati__id_th__2D27B809" Association="Self.FK__Applicati__id_th__2D27B809">
+      <End Role="The_purpose_of_the_appeal" EntitySet="The_purpose_of_the_appeal" />
+      <End Role="Applications" EntitySet="Applications" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

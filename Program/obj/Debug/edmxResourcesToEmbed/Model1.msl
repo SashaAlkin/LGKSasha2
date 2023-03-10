@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище apllication_of_citizens3ModelContainer" CdmEntityContainer="DatabaseEntities">
+    <EntitySetMapping Name="Applications">
+      <EntityTypeMapping TypeName="apllication_of_citizens3Model.Application">
+        <MappingFragment StoreEntitySet="Applications">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="client" ColumnName="client" />
+          <ScalarProperty Name="specialist" ColumnName="specialist" />
+          <ScalarProperty Name="id_the_purpose_of_the_appeal" ColumnName="id_the_purpose_of_the_appeal" />
+          <ScalarProperty Name="date" ColumnName="date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="apllication_of_citizens3Model.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="fio" ColumnName="fio" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="date_of_birth" ColumnName="date_of_birth" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="using" ColumnName="using" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Specialists">
+      <EntityTypeMapping TypeName="apllication_of_citizens3Model.Specialist">
+        <MappingFragment StoreEntitySet="Specialist">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="fio" ColumnName="fio" />
+          <ScalarProperty Name="number_office" ColumnName="number_office" />
+          <ScalarProperty Name="work_experience" ColumnName="work_experience" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="using" ColumnName="using" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="The_purpose_of_the_appeal">
+      <EntityTypeMapping TypeName="apllication_of_citizens3Model.The_purpose_of_the_appeal">
+        <MappingFragment StoreEntitySet="The_purpose_of_the_appeal">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="the_purpose_of_the_appeal1" ColumnName="the_purpose_of_the_appeal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserTypes">
+      <EntityTypeMapping TypeName="apllication_of_citizens3Model.UserType">
+        <MappingFragment StoreEntitySet="UserType">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usings">
+      <EntityTypeMapping TypeName="apllication_of_citizens3Model.Using">
+        <MappingFragment StoreEntitySet="Using">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="user_type" ColumnName="user_type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

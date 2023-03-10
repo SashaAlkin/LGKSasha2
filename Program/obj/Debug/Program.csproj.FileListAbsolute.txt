@@ -1,0 +1,486 @@
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\bin\Debug\Program.exe.config
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\bin\Debug\Program.exe
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\bin\Debug\Program.pdb
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\AuthPage.g.cs
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\MainWindow.g.cs
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\App.g.cs
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\Program_MarkupCompile.cache
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\Program_MarkupCompile.lref
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\AuthPage.baml
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\MainWindow.baml
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.g.resources
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.exe
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.pdb
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\RegPage.g.cs
+C:\Users\PC-11\Desktop\Курсовая работа 3 курс\Program\Program\obj\Debug\RegPage.baml
+C:\Users\Pk 5\Desktop\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Pk 5\Desktop\Program\Program\bin\Debug\Program.exe
+C:\Users\Pk 5\Desktop\Program\Program\bin\Debug\Program.pdb
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\AuthPage.g.cs
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\MainWindow.g.cs
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\RegPage.g.cs
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\App.g.cs
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\Program_MarkupCompile.cache
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\Program_MarkupCompile.lref
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\AuthPage.baml
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\MainWindow.baml
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\RegPage.baml
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\Program.g.resources
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\Program.exe
+C:\Users\Pk 5\Desktop\Program\Program\obj\Debug\Program.pdb
+E:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\Program.exe.config
+E:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\Program.exe
+E:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\Program.pdb
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\AuthPage.g.cs
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MainWindow.g.cs
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\RegPage.g.cs
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\App.g.cs
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program_MarkupCompile.cache
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program_MarkupCompile.lref
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\AuthPage.baml
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MainWindow.baml
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\RegPage.baml
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.g.resources
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.Properties.Resources.resources
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.exe
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.pdb
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MainPage.g.cs
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MainPage.baml
+E:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\EntityFramework.dll
+E:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\EntityFramework.SqlServer.dll
+E:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\EntityFramework.xml
+E:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\EntityFramework.SqlServer.xml
+E:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\ru\EntityFramework.resources.dll
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.CopyComplete
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program_Content.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\Program.exe.config
+D:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\Program.exe
+D:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\Program.pdb
+D:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\EntityFramework.dll
+D:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\EntityFramework.xml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\bin\Debug\ru\EntityFramework.resources.dll
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\AuthPage.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MainPage.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MainWindow.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\RegPage.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\App.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program_Content.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program_MarkupCompile.cache
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program_MarkupCompile.lref
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\AuthPage.baml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MainPage.baml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MainWindow.baml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\RegPage.baml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.g.resources
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.Properties.Resources.resources
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.csproj.CopyComplete
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.exe
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\Program.pdb
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\ShowListPage.g.cs
+E:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\ShowListPage.baml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\AddContestPage.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\ContestsPage.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\AddContestPage.baml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\ContestsPage.baml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\ContestEditPage.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\ContestEditPage.baml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MembersEditPage.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MembersPage.g.cs
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MembersEditPage.baml
+D:\Учёба\Курсовая работа 3 курс\Program\Program\obj\Debug\MembersPage.baml
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\AddContestPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\ApplicationsEditPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\ApplicationsPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\AssetEditPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\AssetPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\AuthPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\ClientsEditPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\ClientsPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\MainPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\MainWindow.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\RegPage.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\App.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\Program_Content.g.cs
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\Program_MarkupCompile.cache
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\Program_MarkupCompile.lref
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\Program.exe
+C:\Users\PK-8\Desktop\Program\Program\obj\Debug\Program.pdb
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\ApplicationsEditPage.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\ApplicationsPage.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\AssetEditPage.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\AssetPage.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\AuthPage.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\ClientsEditPage.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\ClientsPage.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\MainPage.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\MainWindow.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\RegPage.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\App.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program_Content.g.cs
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program_MarkupCompile.cache
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program_MarkupCompile.lref
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program.exe
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program.pdb
+C:\Users\PC-11\Desktop\Program1\Program\bin\Debug\Program.exe.config
+C:\Users\PC-11\Desktop\Program1\Program\bin\Debug\Program.exe
+C:\Users\PC-11\Desktop\Program1\Program\bin\Debug\Program.pdb
+C:\Users\PC-11\Desktop\Program1\Program\bin\Debug\EntityFramework.dll
+C:\Users\PC-11\Desktop\Program1\Program\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC-11\Desktop\Program1\Program\bin\Debug\EntityFramework.xml
+C:\Users\PC-11\Desktop\Program1\Program\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC-11\Desktop\Program1\Program\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\ApplicationsEditPage.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\ApplicationsPage.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\AssetEditPage.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\AssetPage.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\AuthPage.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\ClientsEditPage.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\ClientsPage.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\MainPage.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\MainWindow.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\RegPage.baml
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program.g.resources
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\PC-11\Desktop\Program1\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\PC-11\Desktop\Курсач\Program\bin\Debug\Program.exe.config
+C:\Users\PC-11\Desktop\Курсач\Program\bin\Debug\Program.exe
+C:\Users\PC-11\Desktop\Курсач\Program\bin\Debug\Program.pdb
+C:\Users\PC-11\Desktop\Курсач\Program\bin\Debug\EntityFramework.dll
+C:\Users\PC-11\Desktop\Курсач\Program\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC-11\Desktop\Курсач\Program\bin\Debug\EntityFramework.xml
+C:\Users\PC-11\Desktop\Курсач\Program\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC-11\Desktop\Курсач\Program\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\ApplicationsEditPage.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\ApplicationsPage.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\AssetEditPage.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\AssetPage.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\AuthPage.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\ClientsEditPage.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\ClientsPage.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\MainPage.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\MainWindow.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\RegPage.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\App.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program_Content.g.cs
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program_MarkupCompile.cache
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program_MarkupCompile.lref
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\ApplicationsEditPage.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\ApplicationsPage.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\AssetEditPage.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\AssetPage.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\AuthPage.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\ClientsEditPage.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\ClientsPage.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\MainPage.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\MainWindow.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\RegPage.baml
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program.g.resources
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program.exe
+C:\Users\PC-11\Desktop\Курсач\Program\obj\Debug\Program.pdb
+C:\альк\Курсач\Program\bin\Debug\Program.exe.config
+C:\альк\Курсач\Program\bin\Debug\Program.exe
+C:\альк\Курсач\Program\bin\Debug\Program.pdb
+C:\альк\Курсач\Program\bin\Debug\EntityFramework.dll
+C:\альк\Курсач\Program\bin\Debug\EntityFramework.SqlServer.dll
+C:\альк\Курсач\Program\bin\Debug\EntityFramework.xml
+C:\альк\Курсач\Program\bin\Debug\EntityFramework.SqlServer.xml
+C:\альк\Курсач\Program\bin\Debug\ru\EntityFramework.resources.dll
+C:\альк\Курсач\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\альк\Курсач\Program\obj\Debug\ApplicationsEditPage.g.cs
+C:\альк\Курсач\Program\obj\Debug\ApplicationsPage.g.cs
+C:\альк\Курсач\Program\obj\Debug\AssetEditPage.g.cs
+C:\альк\Курсач\Program\obj\Debug\AssetPage.g.cs
+C:\альк\Курсач\Program\obj\Debug\AuthPage.g.cs
+C:\альк\Курсач\Program\obj\Debug\ClientsEditPage.g.cs
+C:\альк\Курсач\Program\obj\Debug\ClientsPage.g.cs
+C:\альк\Курсач\Program\obj\Debug\MainPage.g.cs
+C:\альк\Курсач\Program\obj\Debug\MainWindow.g.cs
+C:\альк\Курсач\Program\obj\Debug\RegPage.g.cs
+C:\альк\Курсач\Program\obj\Debug\App.g.cs
+C:\альк\Курсач\Program\obj\Debug\Program_Content.g.cs
+C:\альк\Курсач\Program\obj\Debug\Program_MarkupCompile.cache
+C:\альк\Курсач\Program\obj\Debug\Program_MarkupCompile.lref
+C:\альк\Курсач\Program\obj\Debug\ApplicationsEditPage.baml
+C:\альк\Курсач\Program\obj\Debug\ApplicationsPage.baml
+C:\альк\Курсач\Program\obj\Debug\AssetEditPage.baml
+C:\альк\Курсач\Program\obj\Debug\AssetPage.baml
+C:\альк\Курсач\Program\obj\Debug\AuthPage.baml
+C:\альк\Курсач\Program\obj\Debug\ClientsEditPage.baml
+C:\альк\Курсач\Program\obj\Debug\ClientsPage.baml
+C:\альк\Курсач\Program\obj\Debug\MainPage.baml
+C:\альк\Курсач\Program\obj\Debug\MainWindow.baml
+C:\альк\Курсач\Program\obj\Debug\RegPage.baml
+C:\альк\Курсач\Program\obj\Debug\Program.g.resources
+C:\альк\Курсач\Program\obj\Debug\Program.Properties.Resources.resources
+C:\альк\Курсач\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\альк\Курсач\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\альк\Курсач\Program\obj\Debug\Program.exe
+C:\альк\Курсач\Program\obj\Debug\Program.pdb
+C:\Katkov\Курсач\Program\bin\Debug\Program.exe.config
+C:\Katkov\Курсач\Program\bin\Debug\Program.exe
+C:\Katkov\Курсач\Program\bin\Debug\Program.pdb
+C:\Katkov\Курсач\Program\bin\Debug\EntityFramework.dll
+C:\Katkov\Курсач\Program\bin\Debug\EntityFramework.SqlServer.dll
+C:\Katkov\Курсач\Program\bin\Debug\EntityFramework.xml
+C:\Katkov\Курсач\Program\bin\Debug\EntityFramework.SqlServer.xml
+C:\Katkov\Курсач\Program\bin\Debug\ru\EntityFramework.resources.dll
+C:\Katkov\Курсач\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\Katkov\Курсач\Program\obj\Debug\ApplicationsEditPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\ApplicationsPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\AssetEditPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\AssetPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\AuthPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\ClientsEditPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\ClientsPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\MainPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\MainWindow.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\RegPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\App.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\Program_Content.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\Program_MarkupCompile.cache
+C:\Katkov\Курсач\Program\obj\Debug\Program_MarkupCompile.lref
+C:\Katkov\Курсач\Program\obj\Debug\ApplicationsEditPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\ApplicationsPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\AssetEditPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\AssetPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\AuthPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\ClientsEditPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\ClientsPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\MainPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\MainWindow.baml
+C:\Katkov\Курсач\Program\obj\Debug\RegPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\Program.g.resources
+C:\Katkov\Курсач\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Katkov\Курсач\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Katkov\Курсач\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Katkov\Курсач\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Katkov\Курсач\Program\obj\Debug\Program.exe
+C:\Katkov\Курсач\Program\obj\Debug\Program.pdb
+C:\Katkov\Курсач\Program\obj\Debug\Buchgalter.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\Buchgalter.baml
+C:\Katkov\Курсач\Program\obj\Debug\SalaryPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\SalaryEditPage.g.cs
+C:\Katkov\Курсач\Program\obj\Debug\SalaryEditPage.baml
+C:\Katkov\Курсач\Program\obj\Debug\SalaryPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\bin\Debug\Program.exe.config
+E:\Алькин\Курсовая работа\Курсач\Program\bin\Debug\Program.exe
+E:\Алькин\Курсовая работа\Курсач\Program\bin\Debug\Program.pdb
+E:\Алькин\Курсовая работа\Курсач\Program\bin\Debug\EntityFramework.dll
+E:\Алькин\Курсовая работа\Курсач\Program\bin\Debug\EntityFramework.SqlServer.dll
+E:\Алькин\Курсовая работа\Курсач\Program\bin\Debug\EntityFramework.xml
+E:\Алькин\Курсовая работа\Курсач\Program\bin\Debug\EntityFramework.SqlServer.xml
+E:\Алькин\Курсовая работа\Курсач\Program\bin\Debug\ru\EntityFramework.resources.dll
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ApplicationsEditPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ApplicationsPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\AssetEditPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\AssetPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\AuthPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientsEditPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientsPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\MainPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\MainWindow.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\RegPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\SalaryEditPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\SalaryPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\App.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program_Content.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program_MarkupCompile.cache
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program_MarkupCompile.lref
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ApplicationsEditPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ApplicationsPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\AssetEditPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\AssetPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\AuthPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientsEditPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientsPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\MainPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\MainWindow.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\RegPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\SalaryEditPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\SalaryPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.g.resources
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.Properties.Resources.resources
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.csproj.GenerateResource.cache
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.csproj.CopyComplete
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.exe
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.pdb
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\BuchgalterPageEdit.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\BuchgalterPage.g.cs
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\BuchgalterPage.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\BuchgalterPageEdit.baml
+E:\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\ApplicationsEditPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\ApplicationsPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\AssetEditPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\AssetPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\AuthPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\BuchgalterPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\BuchgalterPageEdit.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\ClientsEditPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\ClientsPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\MainPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\MainWindow.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\RegPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\SalaryEditPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\SalaryPage.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\App.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program_MarkupCompile.cache
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program_MarkupCompile.lref
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program.exe
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program.pdb
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\bin\Debug\Program.exe.config
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\bin\Debug\Program.exe
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\bin\Debug\Program.pdb
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\bin\Debug\EntityFramework.dll
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\bin\Debug\EntityFramework.SqlServer.dll
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\bin\Debug\EntityFramework.xml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\bin\Debug\EntityFramework.SqlServer.xml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\bin\Debug\ru\EntityFramework.resources.dll
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program_Content.g.cs
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\ApplicationsEditPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\ApplicationsPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\AssetEditPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\AssetPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\AuthPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\BuchgalterPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\BuchgalterPageEdit.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\ClientsEditPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\ClientsPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\MainPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\MainWindow.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\RegPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\SalaryEditPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\SalaryPage.baml
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program.g.resources
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program.Properties.Resources.resources
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\43 группа\Алькин\перенесенная курсовая\Курсач\Program\obj\Debug\Program.csproj.CopyComplete
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\bin\Debug\Program.exe.config
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\bin\Debug\Program.exe
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\bin\Debug\Program.pdb
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\bin\Debug\EntityFramework.dll
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\bin\Debug\EntityFramework.SqlServer.dll
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\bin\Debug\EntityFramework.xml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\bin\Debug\EntityFramework.SqlServer.xml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\bin\Debug\ru\EntityFramework.resources.dll
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\ApplicationsEditPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\ApplicationsPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\AuthPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\ClientsEditPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\ClientsPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\MainPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\MainWindow.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\RegPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\App.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program_Content.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program_MarkupCompile.cache
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program_MarkupCompile.lref
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\ApplicationsEditPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\ApplicationsPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\AuthPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\ClientsEditPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\ClientsPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\MainPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\MainWindow.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\RegPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program.g.resources
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program.Properties.Resources.resources
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program.csproj.CopyComplete
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program.exe
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\Program.pdb
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\SpecialistPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\SpecialistEditPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\The_purpose_of_the_appealEditPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\The_purpose_of_the_appealPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\OfficePage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\OfficeEditPage.g.cs
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\OfficeEditPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\OfficePage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\SpecialistEditPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\SpecialistPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\The_purpose_of_the_appealEditPage.baml
+C:\43 группа\Алькин\Курсовой проект\Курсач\Program\obj\Debug\The_purpose_of_the_appealPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\bin\Debug\Program.exe.config
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\bin\Debug\Program.exe
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\bin\Debug\Program.pdb
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\bin\Debug\EntityFramework.dll
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\bin\Debug\EntityFramework.SqlServer.dll
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\bin\Debug\EntityFramework.xml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\bin\Debug\EntityFramework.SqlServer.xml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\bin\Debug\ru\EntityFramework.resources.dll
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ApplicationsEditPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ApplicationsPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\AuthPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientsEditPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientsPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\MainPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\MainWindow.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\RegPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\SpecialistEditPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\SpecialistPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\The_purpose_of_the_appealEditPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\The_purpose_of_the_appealPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\App.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program_Content.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program_MarkupCompile.cache
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program_MarkupCompile.lref
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ApplicationsEditPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ApplicationsPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\AuthPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientsEditPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientsPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\MainPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\MainWindow.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\RegPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\SpecialistEditPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\SpecialistPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\The_purpose_of_the_appealEditPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\The_purpose_of_the_appealPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.g.resources
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.Properties.Resources.resources
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.csproj.CopyComplete
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.exe
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.pdb
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientApplicationsPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientMainPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientApplicationsPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientMainPage.baml
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientApplicationsEditPage.g.cs
+C:\43 группа\Алькин\Курсовая работа\Курсач\Program\obj\Debug\ClientApplicationsEditPage.baml

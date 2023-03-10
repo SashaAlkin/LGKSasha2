@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище apllication_of_citizensModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "apllication_of_citizens1.dbo.Applications" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Applications">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="client" Type="int" />
+    <Property Name="specialist" Type="int" />
+    <Property Name="id_the_purpose_of_the_appeal" Type="int" />
+    <Property Name="date" Type="date" />
+  </EntityType>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fio" Type="nvarchar" MaxLength="200" />
+    <Property Name="age" Type="char" MaxLength="10" />
+    <Property Name="date_of_birth" Type="date" />
+    <Property Name="address" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Specialist">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fio" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="number_office" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="work_experience" Type="int" />
+    <Property Name="age" Type="int" />
+    <Property Name="phone" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="The_purpose_of_the_appeal">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="the_purpose_of_the_appeal" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Using">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="login" Type="nvarchar" MaxLength="50" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK__Applicati__clien__2B3F6F97">
+    <End Role="Client" Type="Self.Client" Multiplicity="0..1" />
+    <End Role="Applications" Type="Self.Applications" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Applications">
+        <PropertyRef Name="client" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Applicati__id_th__2D27B809">
+    <End Role="The_purpose_of_the_appeal" Type="Self.The_purpose_of_the_appeal" Multiplicity="0..1" />
+    <End Role="Applications" Type="Self.Applications" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="The_purpose_of_the_appeal">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Applications">
+        <PropertyRef Name="id_the_purpose_of_the_appeal" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Applicati__speci__2C3393D0">
+    <End Role="Specialist" Type="Self.Specialist" Multiplicity="0..1" />
+    <End Role="Applications" Type="Self.Applications" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Specialist">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Applications">
+        <PropertyRef Name="specialist" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище apllication_of_citizensModelContainer">
+    <EntitySet Name="Client" EntityType="Self.Client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Specialist" EntityType="Self.Specialist" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="The_purpose_of_the_appeal" EntityType="Self.The_purpose_of_the_appeal" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Using" EntityType="Self.Using" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Applications" EntityType="Self.Applications" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Applications].[id] AS [id], 
+    [Applications].[client] AS [client], 
+    [Applications].[specialist] AS [specialist], 
+    [Applications].[id_the_purpose_of_the_appeal] AS [id_the_purpose_of_the_appeal], 
+    [Applications].[date] AS [date]
+    FROM [dbo].[Applications] AS [Applications]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__Applicati__clien__2B3F6F97" Association="Self.FK__Applicati__clien__2B3F6F97">
+      <End Role="Client" EntitySet="Client" />
+      <End Role="Applications" EntitySet="Applications" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Applicati__id_th__2D27B809" Association="Self.FK__Applicati__id_th__2D27B809">
+      <End Role="The_purpose_of_the_appeal" EntitySet="The_purpose_of_the_appeal" />
+      <End Role="Applications" EntitySet="Applications" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Applicati__speci__2C3393D0" Association="Self.FK__Applicati__speci__2C3393D0">
+      <End Role="Specialist" EntitySet="Specialist" />
+      <End Role="Applications" EntitySet="Applications" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
